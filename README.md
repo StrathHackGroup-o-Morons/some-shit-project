@@ -1,2 +1,2 @@
-# some-shit-project
+# hackathon_project
 Ez hackathon win
